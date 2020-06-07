@@ -1,2 +1,4 @@
 # ExcerciseTracker
-Demor MERN app
+
+This is just another demo MERN app
+
